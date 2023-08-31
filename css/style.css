@@ -81,6 +81,17 @@ body{
 
 }
 
+.contenedor_video{
+
+    width:100%;
+    height:200px;
+
+}
+
+.html-video2{
+    width:100%;
+    height:200px;
+}
 
 @media screen and (max-width:767px){
 
