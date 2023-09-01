@@ -74,6 +74,18 @@ body{
 
 }
 
+.bg-prima{
+
+    background: rgb(109,170,195);
+    background: linear-gradient(90deg, rgba(109,170,195,1) 1%, rgba(111,178,198,0.927608543417367) 50%, rgba(111,178,198,1) 75%);
+    color:white;
+}
+
+.texto-color{
+
+    color:white;
+}
+
 
 #footer a{
 
